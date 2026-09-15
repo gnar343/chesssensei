@@ -1,0 +1,6 @@
+{
+  "name": "チェス先生AI",
+  "description": "初心者向けチェス検討・学習AI。最善手ではなく、相手の狙いや警戒点、考え方を段階的に学びます。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
